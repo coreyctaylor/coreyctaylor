@@ -1,4 +1,3 @@
 - 👋 Hello, I’m Corey Taylor
-- 🔭 I’m currently pursuing my Master's degree at SDSU in Computer Engineering!
-- 🌱 I’m currently learning about Machine Learning, Embedded Operating Systems, and Database and Web Programming!
-- 👯 I’m looking to collaborate on personal and/or school projects
+- 🔭 I recently completed my Master's degree at SDSU in Computer Engineering!
+- 🌱 I’m currently working at General Atomics!
